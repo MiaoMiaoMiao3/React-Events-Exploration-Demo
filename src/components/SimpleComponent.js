@@ -35,8 +35,8 @@ class SimpleComponent extends React.Component {
       }
     )
 
-
-  };
+  }
+};
 
   render() {
     return (
